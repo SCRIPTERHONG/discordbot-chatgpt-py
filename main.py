@@ -43,4 +43,4 @@ async def on_message(message):
 try:
     client.run(DISCORD_BOT_TOKEN)
 except discord.errors.LoginFailure as e:
-    print("MTE3MDYwMDUyMTUwNjIzMDM0Mw.GAn6Xf.me4YRdj1QdgMHsevMEN5VnrZhcivBW7S1teht8")
+    print("")
